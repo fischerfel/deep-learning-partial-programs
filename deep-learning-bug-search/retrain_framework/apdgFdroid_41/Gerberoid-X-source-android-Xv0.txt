@@ -1,0 +1,90 @@
+44
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayMode()I||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayGridFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetGerberGridVisibleColor(I)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayMode(I)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetNegativeObjectsVisibleColor(I)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetGerberGridVisibleColorARGB()I||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayPolygonsFillFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayFlashedItemsFillFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayNegativeObjectsFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayDCodesFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayNegativeObjectsFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDisplayLinesFillFlag(Z)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayFlashedItemsFillFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayLinesFillFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.SetDCodesVisibleColor(I)V||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayDCodesFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayGridFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetNegativeObjectsVisibleColorARGB()I||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDCodesVisibleColorARGB()I||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.DisplayOptions.GetDisplayPolygonsFillFlag()Z||Gerberoid-X-source-android-X/DisplayOptions
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.onSaveInstanceState(Landroid/os/Bundle;)V||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.onDestroy()V||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.getLayers()Lse/pp/mc/android/Gerberoid/Layers;||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.onRestoreInstanceState(Landroid/os/Bundle;)V||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.getDisplayOptions()Lse/pp/mc/android/Gerberoid/DisplayOptions;||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.getViewPort()Lse/pp/mc/android/Gerberoid/ViewPort;||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.GerberViewer.onCreate()V||Gerberoid-X-source-android-X/GerberViewer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layer.IsVisible()Z||Gerberoid-X-source-android-X/Layer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layer.GetDisplayName()Ljava/lang/String;||Gerberoid-X-source-android-X/Layer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layer.GetColor()I||Gerberoid-X-source-android-X/Layer
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.LoadDrill(Ljava/io/File;)Z||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.getLayerCount()I||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.registerObserver(Landroid/database/DataSetObserver;)V||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.unregisterObserver(Landroid/database/DataSetObserver;)V||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.setActiveLayer(I)V||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.getLayer(I)Lse/pp/mc/android/Gerberoid/Layer;||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.getActiveLayer()I||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.Clear_DrawLayers()Z||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.LoadGerber(Ljava/io/File;)Z||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.SetLayerVisible(IZ)V||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.Layers.SetLayerColor(II)V||Gerberoid-X-source-android-X/Layers
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.ViewPort.SetNextZoom()Z||Gerberoid-X-source-android-X/ViewPort
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.ViewPort.SetPreviousZoom()Z||Gerberoid-X-source-android-X/ViewPort
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 se.pp.mc.android.Gerberoid.ViewPort.Zoom_Automatique()V||Gerberoid-X-source-android-X/ViewPort
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

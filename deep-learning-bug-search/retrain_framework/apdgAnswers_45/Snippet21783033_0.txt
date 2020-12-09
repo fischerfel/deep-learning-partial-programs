@@ -1,0 +1,8 @@
+3
+1 Foo.btnclick(LView;)V||Snippet21783033_0-X-source-android-X/Foo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 Foo.getApplicationContext()V||Snippet21783033_0-X-source-android-X/Foo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 Foo.verify(Ljava/lang/String;LSSLSession;)Z||Snippet21783033_0-X-source-android-X/Foo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

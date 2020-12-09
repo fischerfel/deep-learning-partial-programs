@@ -1,0 +1,8 @@
+3
+1 Foo.<init>.<anonymoussubclassofUNKNOWN>.checkServerTrusted([LX509Certificate;Ljava/lang/String;)V||Snippet23134124_0-X-source-android-X/<anonymoussubclassofUNKNOWN>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 Foo.<init>.<anonymoussubclassofUNKNOWN>.getAcceptedIssuers()[LX509Certificate;||Snippet23134124_0-X-source-android-X/<anonymoussubclassofUNKNOWN>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 Foo.<init>.<anonymoussubclassofUNKNOWN>.checkClientTrusted([LX509Certificate;Ljava/lang/String;)V||Snippet23134124_0-X-source-android-X/<anonymoussubclassofUNKNOWN>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

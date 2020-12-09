@@ -1,0 +1,12 @@
+4
+1 AllVerifier.verify(Ljava/lang/String;LSSLSession;)Z||Snippet12427101_0-X-source-android-X/AllVerifier
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 AllTrustManager.checkServerTrusted([LX509Certificate;Ljava/lang/String;)V||Snippet12427101_0-X-source-android-X/AllTrustManager
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3 AllTrustManager.getAcceptedIssuers()[LX509Certificate;||Snippet12427101_0-X-source-android-X/AllTrustManager
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 2 1 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+1 AllTrustManager.checkClientTrusted([LX509Certificate;Ljava/lang/String;)V||Snippet12427101_0-X-source-android-X/AllTrustManager
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

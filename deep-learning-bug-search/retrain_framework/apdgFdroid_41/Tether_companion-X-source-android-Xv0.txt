@@ -1,0 +1,11 @@
+4
+2 rino.org.tethercompanion.ExampleUnitTest.addition_isCorrect()V||Tether_companion-X-source-android-X/ExampleUnitTest
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+1 fi.iki.elonen.WebServerPluginInfo.getMimeTypes()[Ljava/lang/String;||Tether_companion-X-source-android-X/WebServerPluginInfo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 fi.iki.elonen.WebServerPluginInfo.getWebServerPlugin(Ljava/lang/String;)Lfi/iki/elonen/WebServerPlugin;||Tether_companion-X-source-android-X/WebServerPluginInfo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 fi.iki.elonen.WebServerPluginInfo.getIndexFilesForMimeType(Ljava/lang/String;)[Ljava/lang/String;||Tether_companion-X-source-android-X/WebServerPluginInfo
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

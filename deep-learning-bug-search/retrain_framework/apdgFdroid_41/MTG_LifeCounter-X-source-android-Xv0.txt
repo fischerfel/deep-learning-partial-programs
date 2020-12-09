@@ -1,0 +1,13 @@
+5
+2 com.marceljurtz.lifecounter.ExampleUnitTest.addition_isCorrect()V||MTG_LifeCounter-X-source-android-X/ExampleUnitTest
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+1 com.marceljurtz.lifecounter.Helper.BaseInterface.IPresenter.onDestroy()V||MTG_LifeCounter-X-source-android-X/IPresenter
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 com.marceljurtz.lifecounter.Helper.BaseInterface.IPresenter.onPause()V||MTG_LifeCounter-X-source-android-X/IPresenter
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 com.marceljurtz.lifecounter.Helper.BaseInterface.IPresenter.onResume()V||MTG_LifeCounter-X-source-android-X/IPresenter
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 com.marceljurtz.lifecounter.Helper.BaseInterface.IPresenter.onCreate()V||MTG_LifeCounter-X-source-android-X/IPresenter
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

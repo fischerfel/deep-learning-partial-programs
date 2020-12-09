@@ -1,0 +1,10 @@
+4
+1 net.tevp.postcode.PostcodeListener.locationFindFail()V||postcode-X-source-android-X/PostcodeListener
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 net.tevp.postcode.PostcodeListener.postcodeLookupFail()V||postcode-X-source-android-X/PostcodeListener
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 net.tevp.postcode.PostcodeListener.postcodeChange(Ljava/lang/String;)V||postcode-X-source-android-X/PostcodeListener
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 net.tevp.postcode.PostcodeListener.updatedLocation(Landroid/location/Location;)V||postcode-X-source-android-X/PostcodeListener
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

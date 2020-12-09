@@ -1,0 +1,10 @@
+4
+0 com.termux.terminal.JNI.createSubprocess(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;[III)I||termux_app-X-application-android-X/JNI
+
+0 com.termux.terminal.JNI.waitFor(I)I||termux_app-X-application-android-X/JNI
+
+0 com.termux.terminal.JNI.close(I)V||termux_app-X-application-android-X/JNI
+
+0 com.termux.terminal.JNI.setPtyWindowSize(III)V||termux_app-X-application-android-X/JNI
+
+

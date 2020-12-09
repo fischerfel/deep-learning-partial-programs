@@ -1,0 +1,216 @@
+83
+2 de.msal.muzei.nationalgeographic.model.Feed.getPreviousEndpoint()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Feed.getNextEndpoint()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Feed.getGalleryTitle()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Feed.setNextEndpoint(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Feed.getItems()Ljava/util/List;||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Feed.setItems(Ljava/util/List;)V||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Feed.setPreviousEndpoint(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Feed.setGalleryTitle(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Feed
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getCaption()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getGuid()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getOriginalUrl()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setAltText(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setCaption(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getAspectRatio()Ljava/lang/Double;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getLivefyre()Lde/msal/muzei/nationalgeographic/model/Livefyre;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setWidth(Ljava/lang/Integer;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setSizes(Lde/msal/muzei/nationalgeographic/model/Sizes;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getTitle()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getHeight()Ljava/lang/Integer;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getCredit()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setInternal(Ljava/lang/Boolean;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setAspectRatio(Ljava/lang/Double;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setCredit(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setFullPathUrl(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getPageUrl()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getPublishDate()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getSizes()Lde/msal/muzei/nationalgeographic/model/Sizes;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getFullPathUrl()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getInternal()Ljava/lang/Boolean;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getUrl()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getAltText()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setPublishDate(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setHeight(Ljava/lang/Integer;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setSocial(Lde/msal/muzei/nationalgeographic/model/Social;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setTitle(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setYourShot(Ljava/lang/Boolean;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setUrl(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getYourShot()Ljava/lang/Boolean;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getSocial()Lde/msal/muzei/nationalgeographic/model/Social;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setOriginalUrl(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Item.getWidth()Ljava/lang/Integer;||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setLivefyre(Lde/msal/muzei/nationalgeographic/model/Livefyre;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setPageUrl(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Item.setGuid(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Item
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setLfMetadata(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setLfNetworkName(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setLfElement(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getLfSiteId()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getLfElement()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setPageGuid(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setSiteSecret(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setChecksum(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getLfMetadata()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getLfNetworkName()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getPageGuid()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getSiteSecret()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Livefyre.setLfSiteId(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Livefyre.getChecksum()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Livefyre
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.NationalGeographicService$Service.getPhotoOfTheDayFeed()Lretrofit2/Call;||muzei_nationalgeographic-X-source-android-X/NationalGeographicService$Service
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.NationalGeographicService$Service.getPhotoOfTheDayFeed(II)Lretrofit2/Call;||muzei_nationalgeographic-X-source-android-X/NationalGeographicService$Service
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+9 de.msal.muzei.nationalgeographic.NationalGeographicService.getAdapter()Lde/msal/muzei/nationalgeographic/NationalGeographicService$Service;||muzei_nationalgeographic-X-source-android-X/NationalGeographicService
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 7
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get240()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set640(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set800(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get320()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set320(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get2048()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set2048(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get800()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get640()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get1024()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set500(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set240(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set1024(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Sizes.set1600(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get500()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Sizes.get1600()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Sizes
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Social.getOgDescription()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Social.setOgTitle(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Social.setTwitterSite(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 de.msal.muzei.nationalgeographic.model.Social.setOgDescription(Ljava/lang/String;)V||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Social.getOgTitle()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 de.msal.muzei.nationalgeographic.model.Social.getTwitterSite()Ljava/lang/String;||muzei_nationalgeographic-X-source-android-X/Social
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+

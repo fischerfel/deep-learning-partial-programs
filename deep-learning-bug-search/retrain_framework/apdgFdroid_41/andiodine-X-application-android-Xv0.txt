@@ -1,0 +1,29 @@
+9
+0 org.xapek.andiodine.IodineClient.getPropertyNetDns1()Ljava/lang/String;||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.getNetbits()I||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.tunnel(I)I||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.getIp()Ljava/lang/String;||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.getDnsFd()I||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.getRemoteIp()Ljava/lang/String;||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.getMtu()I||andiodine-X-application-android-X/IodineClient
+
+0 org.xapek.andiodine.IodineClient.tunnelInterrupt()V||andiodine-X-application-android-X/IodineClient
+
+10 org.xapek.andiodine.IodineClient.log_callback(Ljava/lang/String;)V||andiodine-X-application-android-X/IodineClient
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 3 6 2 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 4
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 2 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+
